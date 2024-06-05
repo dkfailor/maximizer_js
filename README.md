@@ -2,7 +2,7 @@
 
 ##Version 1 
 
-This is the skeleton program is simple and listed under an html, js, and css file
+This is the basic skeleton program and listed under an html, js, and css file
 
 The names are "Maximizer" dot html, css, js, but will be changed to 
 
